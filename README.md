@@ -15,39 +15,39 @@ Welcome to my Data Science Portfolio! 🚀 This repository showcases my work in 
 
 1️⃣ Data Cleaning & EDA
 
-Titanic Survival Analysis 🛳️
+  Titanic Survival Analysis 🛳️
 
-Sales Data Cleaning 🛒
+  Sales Data Cleaning 🛒
 
 2️⃣ Dashboards & Reporting
 
-Sales Dashboard (Tableau) 📊
+  Sales Dashboard (Tableau) 📊
 
-Sentiment Analysis (Streamlit) 💬
+  Sentiment Analysis (Streamlit) 💬
 
 3️⃣ Machine Learning Models
 
-House Price Prediction 🏠
+  House Price Prediction 🏠
 
-Credit Risk Analysis 💳
+  Credit Risk Analysis 💳
 
 4️⃣ End-to-End Projects
 
-Fake News Detection (Flask) 📰
+  Fake News Detection (Flask) 📰
 
-Customer Churn Prediction (FastAPI) 🔄
+  Customer Churn Prediction (FastAPI) 🔄
 
 5️⃣ Deep Learning (Optional)
 
-Image Classification 🖼️
+  Image Classification 🖼️
 
-NLP Sentiment Analysis 🗣️
+  NLP Sentiment Analysis 🗣️
 
 6️⃣ SQL-Based Data Analysis
 
-E-Commerce Data Queries 🛍️
+  E-Commerce Data Queries 🛍️
 
-HR Analytics SQL Queries 👥
+  HR Analytics SQL Queries 👥
 
 📌 Skills Demonstrated
 ✅ Data Wrangling & Cleaning (Pandas, NumPy, SQL)
@@ -58,8 +58,8 @@ HR Analytics SQL Queries 👥
 
 🔗 Connect With Me
 
-LinkedIn: [Mayuresh Shelke](https://www.linkedin.com/in/mayuresh-shelke-/)
+  LinkedIn: [Mayuresh Shelke](https://www.linkedin.com/in/mayuresh-shelke-/)
 
-GitHub: [Mayuresh Shelke](https://github.com/mayurreshshelke/)
+  GitHub: [Mayuresh Shelke](https://github.com/mayurreshshelke/)
 
 🚀 Stay tuned for more projects and improvements!
